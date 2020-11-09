@@ -2,7 +2,7 @@
 * 🔭 I’m currently studying on University of Calabria
 * 🌱 I’m currently learning: 
   - **Pyhton** 
-- **Java**
+  - **Java**
 ### 🕹️ In future I'm interested on learning:
 - Game Development
 - Graphics 3D
