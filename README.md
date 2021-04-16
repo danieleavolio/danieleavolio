@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 🔭 I’m currently studying on [University of Calabria](https://www.mat.unical.it/ComputerScience/HomePage)
+* 🔭 I’m currently studying on [University of Calabria](https://informatica.unical.it)
 * 🌱 I’m currently learning: 
   - **Pyhton** 
   - **Javascript**
