@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 🔭 I’m currently studying on [University of Calabria](https://informatica.unical.it)
 * 💻 Languages and Tools
-  - **C++*
+  - **C++**
   - **Java**
   - **Javascript**
   - **Python**
