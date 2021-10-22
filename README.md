@@ -30,7 +30,7 @@
 >- [Sushi Expl](https://github.com/lovaion/Sushi-Expl) Sushi page 
 >- [Donkey Kong AI](https://github.com/lovaion/DonkeyKongAI) Donkey Kong played by AI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovaion&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleavolio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
