@@ -1,18 +1,18 @@
 ### Hi there 👋
 * 🔭 I’m currently studying on [University of Calabria](https://informatica.unical.it)
 * 💻 Languages and Tools
-  - **C++**
-  - **Java**
-  - **Javascript**
-  - **Python**
-  - **Perl**
-  - **Jquery**
-  - **HTML**
-  - **CSS**
+  - [x] C++ 
+  - [x] Java
+  - [x] Python
+  - [x] HTML / CSS
+  - [x] JavaScript
+  - [x] Svelte
+  - [ ] React.js 
+  - [ ] Native development
  
 
 ### 🕹️ In future I'm interested on learning:
-- Game Development
+- Integration
 - Web Development
 - Mobile Apps Development
 
