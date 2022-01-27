@@ -7,14 +7,15 @@
   - [x] HTML / CSS
   - [x] JavaScript
   - [x] Svelte
-  - [ ] React.js 
+  - [x] Svelte-kit
+  - [x] Firebase
   - [ ] Native development
  
 
 ### 🕹️ In future I'm interested on learning:
-- Integration
 - Web Development
 - Mobile Apps Development
+- Data Science
 
 ### How to reach me: 📫 
   - :bird: [Twitter](https://twitter.com/avolio_daniele)
