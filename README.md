@@ -1,11 +1,14 @@
 ### Hi there 👋
 * 🔭 I’m currently studying on [University of Calabria](https://informatica.unical.it)
+
+
 * 💻 Languages and Tools
   - [x] C++ 
   - [x] Java
   - [x] Python
   - [x] HTML / CSS
   - [x] JavaScript
+  - [x] Typescript
   - [x] Svelte
   - [x] Svelte-kit
   - [x] Firebase
@@ -13,7 +16,6 @@
  
 
 ### 🕹️ In future I'm interested on learning:
-- Web Development
 - Mobile Apps Development
 - Data Science
 
@@ -28,7 +30,6 @@
 >- [Visualized Sorting](https://github.com/lovaion/VisualizedSorting) Sorting Algorithms Interface
 >- [Hero Road](https://github.com/lovaion/Hero-Road-Java) Java 2D Game
 >- [Minimal Password Generator](https://github.com/lovaion/MinimalPasswordGenerator) A minimalistic design password generator
->- [Sushi Expl](https://github.com/lovaion/Sushi-Expl) Sushi page 
 >- [Donkey Kong AI](https://github.com/lovaion/DonkeyKongAI) Donkey Kong played by AI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleavolio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
