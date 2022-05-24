@@ -13,6 +13,7 @@
   - [x] Svelte
   - [x] Svelte-kit
   - [x] Firebase
+  - [x] Angular
   - [ ] Native development
  
 
