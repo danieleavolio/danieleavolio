@@ -14,6 +14,7 @@
   - [x] Svelte-kit
   - [x] Firebase
   - [x] Angular
+  - [ ] React
   - [ ] Native development
  
 
