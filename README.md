@@ -4,7 +4,7 @@
 * 🔭 Attending Master's Degree in Data Science & AI at [University of Calabria](https://informatica.unical.it)
 
 
-## 💻 Languages and Tools
+## 💻 Technologies I know
   - [x] C++ 
   - [x] Java
   - [x] Python
@@ -12,20 +12,22 @@
   - [x] JavaScript
   - [x] Typescript
   - [x] Svelte
-  - [x] Svelte-kit
+  - [x] Svelte-Kit
   - [x] Firebase
   - [x] Angular
   - [x] Pentaho
   - [x] Tableau
-  - [ ] React
-  - [ ] Native development
+  - [x] scikit-learn
+  - [x] Pandas
+  - [x] NumpPy
+ 
  
 
-## 📃 Learning | Interested in:
-* Data Science
+## 📃 What I am interested in
 * Unity
 * Game Development
 * Machine Learning
+* Deep Learning
 
 ## Reach me: 📫 
   * :bird: [Twitter](https://twitter.com/avolio_daniele)
