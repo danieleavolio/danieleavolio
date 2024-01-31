@@ -1,30 +1,23 @@
 ## Daniele here 👋
 * Daniele Avolio 23y Italian Developer
-* 🔭 Bachelor's Degree in Computer Science at [University of Calabria](https://informatica.unical.it)
+* 👌 Bachelor's Degree in Computer Science at [University of Calabria](https://informatica.unical.it)
 * 🔭 Attending Master's Degree in Data Science & AI at [University of Calabria](https://informatica.unical.it)
 
 
-## 💻 Technologies I know
-  - [x] C++ 
-  - [x] Java
-  - [x] Python
-  - [x] HTML / CSS
-  - [x] JavaScript
-  - [x] Typescript
-  - [x] Svelte
-  - [x] Svelte-Kit
-  - [x] Firebase
-  - [x] Angular
-  - [x] Pentaho
-  - [x] Tableau
-  - [x] scikit-learn
-  - [x] Pandas
-  - [x] NumpPy
- 
+## My knowledge 🧠
+
+| DATA SCIENCE        | FRONTEND           | PROGRAMMING        | Tools             |
+|---------------------|--------------------|--------------------|-------------------|
+| Python              | HTML / CSS         | C++                | Firebase          |
+| scikit-learn        | Svelte-Kit         | Java               | Pentaho           |
+| Pandas              | Svelte             | JavaScript         | Tableau           |
+| NumPy               | Angular            | TypeScript         |                   |
+| Keras               | 
+| TensorFlow          | 
+
  
 
 ## 📃 What I am interested in
-* Unity
 * Game Development
 * Machine Learning
 * Deep Learning
