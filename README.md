@@ -152,13 +152,20 @@
 </div>
 
 <h3 align=center>Reach me: 📫 </h3> 
-
-  * :bird: [Twitter](https://twitter.com/avolio_daniele)
-  * :mailbox_with_mail: daniele.avolio14@gmail.com
-  * 💻 [Linkedin](https://www.linkedin.com/in/daniele-avolio-465aba145/)
-
- 
-<h3> Important Projects</h3>
+<div align="center">
+    <!-- X Logo -->
+    <a href="https://twitter.com/avolio_daniele" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="x_logo" width="40" height="40"/>
+    </a>
+    <!-- Gmail -->
+    <a href="mailto:daniele.avolio14@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40"/>
+    </a>
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/daniele-avolio-465aba145/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/>
+    </a>
+</div>
 
 <!--
  ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=danieleavolio&show_icons=true&hide=[%22issues%22])
