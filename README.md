@@ -4,11 +4,11 @@
 
 <h3 align=center>📃 Interest </h3>
 
-* 💻 **Machine Learning & Deep Learning:** I'm fascinated by the application of machine learning and deep learning algorithms and techniques to solve intricate problems. I enjoy exploring new models and methods to tackle diverse challenges in this field.
+* 💻 **Machine Learning & Deep Learning:** I'm really inside this world and amazed by the technologies developed.
 
-* 🌐 **Frontend Development:** I have a passion for crafting captivating and user-friendly interfaces. From designing layouts to implementing interactive features, I thrive on creating seamless experiences that delight users.
+* 🌐 **Frontend Development:** I always loved to create UIs, since seems like no one wants to... Someone has to do it.
 
-* 📊 **Data Engineering:** Delving into the realm of data engineering, I find joy in working with vast datasets. From data extraction to processing and analysis, I am dedicated to uncovering valuable insights and driving informed decision-making through robust data pipelines.
+* 📊 **Data Science:** Data Science and AI are really becoming part of the future for every technology. I want to be part of this team.
 
 
 <h3 align=center> Language and technologies ⚡ </h3>
