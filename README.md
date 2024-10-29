@@ -1,7 +1,9 @@
 <h1 align="center"> Daniele Avolio - AI & Computer Science 💻 </h1>
 
-<p text-align="center">Hello there! I'm Daniele Avolio, a 24-year-old software developer from Italy. I hold a Bachelor's Degree in Computer Science from the respected <a href="https://informatica.unical.it">University of Calabria</a> and I'm currently pursuing my Master's Degree in Data Science & AI at the same university. </p>
+<p text-align="center">Hello there! I'm Daniele Avolio, a 25-year-old software developer from Italy. I hold a Bachelor's Degree in Computer Science from the respected <a href="https://informatica.unical.it">University of Calabria</a> and I'm currently pursuing my Master's Degree in Data Science & AI at the same university. </p>
 
+<p> Right now I am a <b>Data Engineer Intern</b> at  <a style="color:#c01637; text-decoration: none" href="https://lutech.group/it"> Lutech </a>  💻
+</p>
 <h3 align=center>📃 Interest </h3>
 
 * 💻 **Machine Learning & Deep Learning:** I'm really inside this world and amazed by the technologies developed.
@@ -9,6 +11,8 @@
 * 🌐 **Frontend Development:** I always loved to create UIs, since seems like no one wants to... Someone has to do it.
 
 * 📊 **Data Science:** Data Science and AI are really becoming part of the future for every technology. I want to be part of this team.
+
+* 🖥️ **Data Engineering:** I want to learn how to build efficient data pipelines and handle big data volumes, making sure data is ready for analysis and machine learning.
 
 
 <h3 align=center> Language and technologies ⚡ </h3>
@@ -147,7 +151,7 @@
 
 <h3 align="center"> Stats ✨ </h3>
 <div>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleavolio&layout=compact" alt="danieleavolio" /></p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleavolio&layout=compact&hide=jupyter%20notebook" alt="danieleavolio" /></p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieleavolio" alt="danieleavolio" /></p>
 </div>
 
