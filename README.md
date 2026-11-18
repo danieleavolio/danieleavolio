@@ -49,7 +49,14 @@ Building reliable pipelines that move, transform, and serve data efficiently.
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleavolio&layout=compact"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+        srcset="assets/languages-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+        srcset="assets/languages-light.svg"/>
+    <img src="assets/languages-dark.svg" width="100%"
+        alt="GitHub Languages" onerror="this.remove()"/>
+</picture>
 </p>
 
 <p align="center">
