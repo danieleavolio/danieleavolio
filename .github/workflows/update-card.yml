@@ -36,6 +36,8 @@ jobs:
         working-directory: generator
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Notebooks from university repos skew the language mix
+          EXCLUDED_LANGUAGES: "Jupyter Notebook"
         run: python generator.py --username danieleavolio
 
       - name: Update profile card

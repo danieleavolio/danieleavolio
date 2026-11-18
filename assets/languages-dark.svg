@@ -102,37 +102,37 @@
           fill="#514F42"/>
     
             <rect x="22.000" y="112"
-                  width="486.054"
+                  width="158.698"
                   height="16"
                   fill="#777568"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="508.054" y="112"
-                  width="19.964"
+            <rect x="180.698" y="112"
+                  width="115.728"
                   height="16"
                   fill="#B98275"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="528.019" y="112"
-                  width="14.559"
+            <rect x="296.426" y="112"
+                  width="70.623"
                   height="16"
                   fill="#B8A16C"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="542.577" y="112"
-                  width="8.884"
+            <rect x="367.048" y="112"
+                  width="64.497"
                   height="16"
                   fill="#E4D38D"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="551.462" y="112"
-                  width="8.114"
+            <rect x="431.546" y="112"
+                  width="63.553"
                   height="16"
                   fill="#F0E8C9"
                   clip-path="url(#bar-clip)"/>
             
-            <rect x="559.576" y="112"
-                  width="18.424"
+            <rect x="495.098" y="112"
+                  width="82.902"
                   height="16"
                   fill="#A7A084"
                   clip-path="url(#bar-clip)"/>
@@ -146,7 +146,7 @@
               font-family="monospace"
               font-size="11">
 
-          Jupyter Notebook 87.42%
+          Svelte 28.54%
 
         </text>
         
@@ -159,7 +159,7 @@
               font-family="monospace"
               font-size="11">
 
-          Svelte 3.59%
+          HTML 20.81%
 
         </text>
         
@@ -172,7 +172,7 @@
               font-family="monospace"
               font-size="11">
 
-          HTML 2.62%
+          JavaScript 12.70%
 
         </text>
         
@@ -185,7 +185,7 @@
               font-family="monospace"
               font-size="11">
 
-          JavaScript 1.60%
+          TypeScript 11.60%
 
         </text>
         
@@ -198,7 +198,7 @@
               font-family="monospace"
               font-size="11">
 
-          TypeScript 1.46%
+          Kotlin 11.43%
 
         </text>
         
@@ -211,7 +211,7 @@
               font-family="monospace"
               font-size="11">
 
-          Other 3.31%
+          Other 14.91%
 
         </text>
         
